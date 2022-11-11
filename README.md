@@ -1,5 +1,5 @@
 <h1 align="center">Shir kocurek</h1>
-<h3 align="center">A passionate software engineer based in Atlanta,GA.</h3>
+<h3 align="center">A passionate software engineer based in Atlanta, GA.</h3>
 
 ---
 ### 🔧 Technologies & Tools

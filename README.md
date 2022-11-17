@@ -20,7 +20,6 @@
 <img align="left" alt="sqlite" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" />
 <img align="left" alt="Jest" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-<br/>
 <img align="left" alt="postgres" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
 <img align="left" alt="postman" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
 

@@ -31,6 +31,7 @@
 ---
 ### 📫 Let's Connect
 <a href="https://www.linkedin.com/in/shir-kocurek-637bb51a5">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<br/>
 **shir617@gmail.com**
 
 

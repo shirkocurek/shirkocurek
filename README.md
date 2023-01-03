@@ -1,7 +1,8 @@
 <h1 align="center">Shir kocurek</h1>
 <h3 align="center">A Software Engineer based in Atlanta, GA.</h3>
+
 ---
-### 🔧 Technologies & Tools
+🔧 Technologies & Tools
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />

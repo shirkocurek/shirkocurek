@@ -1,8 +1,5 @@
 <h1 align="center">Shir kocurek</h1>
 <h3 align="center">A Software Engineer based in Atlanta, GA.</h3>
-<br/>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/bQCwwu0yF90AAAAj/developer-workstation.gif" />
-
 ---
 ### 🔧 Technologies & Tools
 

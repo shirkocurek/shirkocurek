@@ -17,7 +17,7 @@
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
-<img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwind/tailwind-plain-wordmark.svg](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)" />
+<img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwind/tailwind-plain-wordmark.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="express" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />
 <img align="left" alt="sqlite" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" />

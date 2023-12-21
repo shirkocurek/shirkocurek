@@ -38,7 +38,7 @@
 <a href="https://www.linkedin.com/in/shir-kocurek">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <br/>
 <br/>
-**shir617@gmail.com**
+**shirkocurek@gmail.com**
 
 ---
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shirkocurek&show_icons=true&locale=en&layout=compact" alt="shirkocurek" /></p>
